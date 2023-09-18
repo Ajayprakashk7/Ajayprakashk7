@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Ajayprakashk7@gmail.com**
 
-- 📄 Know about my experiences [https://ajayprakash.live/assets/resume-example.pdf](https://ajayprakash.live/assets/resume-example.pdf)
+- 📄 Checkout my Portfolio [https://ajayprakash.live/assets/resume-example.pdf](https://ajayprakash.live/assets/resume-example.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

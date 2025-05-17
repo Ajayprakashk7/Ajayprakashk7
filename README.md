@@ -23,7 +23,9 @@
     <a href="https://linkedin.com/in/ajayprakashk7" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <!-- remove Instagram if unused -->
+        <a href="https://instagram.com/ajay____prakash" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay____prakash" height="30" width="40" />
+    </a>
   </p>
 
   <h3 align="left">Languages &amp; Tools</h3>

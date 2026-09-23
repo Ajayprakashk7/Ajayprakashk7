@@ -1,98 +1,92 @@
-<h1 align="center">Hi 👋, I'm Ajay Prakash</h1>
-<h3 align="center">
-SAP BASIS Consultant • Data Engineering Explorer • Full-Stack Web Developer
-</h3>
+<h1 align="center">Ajay Prakash</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajayprakashk7&label=Profile%20views&color=0e75b6&style=flat" alt="ajayprakashk7" />
+  <strong>Data & AI Engineer · SAP BASIS Consultant · Full-Stack Developer</strong>
 </p>
 
 <p align="center">
-I build and run enterprise systems by day, and data-driven web products by night.
+  I build practical systems across enterprise infrastructure, data engineering, AI automation, and modern web applications.
+</p>
+
+<p align="center">
+  <a href="https://ajayprakash.dev">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ajayprakashk7">LinkedIn</a> ·
+  <a href="mailto:ajayprakashk7@gmail.com">Email</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## What I Build
 
-I’m a **SAP BASIS Consultant at Cognizant**, working on large-scale enterprise SAP landscapes.  
-My role sits at the intersection of **infrastructure, security, and reliability** — I design, run, secure, and troubleshoot SAP systems that businesses depend on every day.
+| Area | Focus |
+|---|---|
+| **Data & AI** | Data pipelines, AI applications, ML/CV experiments, intelligent automation |
+| **Backend & Systems** | APIs, PostgreSQL, Redis, authentication, caching, rate limiting |
+| **Full Stack** | Next.js, React, TypeScript, Node.js, production-oriented web apps |
+| **Enterprise** | SAP BASIS, S/4HANA, HANA, enterprise operations and reliability |
 
-Before SAP, I worked in **Data Engineering & ETL**, using  
-**Informatica IICS, PowerCenter, Python, and SQL** to build data pipelines and analytics workflows.  
-Before that, I was a **full-stack web developer**, building real-world applications with **React, Node.js, and modern JavaScript**.
+## Featured Engineering Work
 
-This mix gives me a rare perspective:
-- I understand **how data flows**
-- I understand **how enterprise systems run**
-- I know **how software is actually built and shipped**
+### 🛍️ TheCouponsPort
+AI-powered price intelligence and coupon discovery for Indian and UAE e-commerce.
 
-Right now, I’m focused on moving deeper into **Data Engineering, Cloud, and AI-driven systems** while continuing to run and automate **mission-critical SAP platforms**.
+**Next.js · TypeScript · PostgreSQL · Supabase · Redis · AI · Scraping · Vercel**
 
----
+→ [Repository](https://github.com/Ajayprakashk7/TheCouponsPort)
 
-### 🔗 Connect With Me
+### 🌌 Solar System Emulator
+Interactive 3D solar-system visualization using real astronomical data and optimized WebGL rendering.
 
-<p align="left">
-  <a href="https://linkedin.com/in/ajayprakashk7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/ajayprakashk7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ajay____prakash" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
+**Next.js · TypeScript · Three.js · React Three Fiber · NASA APIs**
 
----
+→ [Repository](https://github.com/Ajayprakashk7/solar-system-emulator) · [Live Demo](https://solar-system-emulator.ajayprakash.dev/)
 
-### 🧠 What I Work With
+### 🛒 Retail DB & Redis Cart
+Backend-focused retail system exploring relational data modeling, caching, and cart performance.
 
-**Enterprise & Data**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-</p>
+**PostgreSQL · Redis · Backend Architecture**
 
-**Web & Backend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-</p>
+→ [Repository](https://github.com/Ajayprakashk7/Retail-DB-and-Redis-Cart)
 
-**Infra & Tools**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-</p>
+### 🤟 Sign Language Translator
+Computer-vision and ML project for real-time gesture recognition and communication assistance.
 
----
+**Python · OpenCV · TensorFlow**
 
-### 🚀 What I’m Building Toward
+→ [Repository](https://github.com/Ajayprakashk7/sign-language-translation)
 
-I’m not just collecting tools.  
-I’m building a **career around systems that move data, money, and decisions**.
+## Current Direction
 
-That means:
-- **Enterprise platforms (SAP)**
-- **Data pipelines & analytics**
-- **Cloud-ready, AI-enabled applications**
+I’m deepening my work in:
 
-The long game is simple:  
-**become the engineer who understands both the business engine and the code that powers it.**
+**Data Engineering → Cloud → AI/ML → Intelligent Automation**
+
+Alongside my M.Tech studies in Data Science & Engineering, I’m building projects that connect software, data, and AI into useful products.
+
+## Engineering Principles
+
+- Build for real use cases, not just demos.
+- Prefer clear architecture over unnecessary complexity.
+- Measure performance instead of guessing.
+- Document decisions, trade-offs, and limitations.
+- Keep experiments clearly separated from production-oriented work.
+
+## Tech
+
+**Languages:** Python · TypeScript · JavaScript · SQL
+
+**Data:** PostgreSQL · MySQL · Redis · Supabase
+
+**AI/ML:** TensorFlow · OpenCV · LLM APIs · AI SDKs
+
+**Web:** Next.js · React · Node.js · Express · Tailwind CSS
+
+**Enterprise:** SAP BASIS · SAP S/4HANA · SAP HANA · Informatica
+
+**Cloud & Tools:** Git · GitHub Actions · Vercel · Linux
 
 ---
 
-
-### ☕ Support
-
-<p>
-  <a href="https://www.buymeacoffee.com/ajayprakashk7">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-  </a>
+<p align="center">
+  <sub>Building systems that move data, power products, and automate work.</sub>
 </p>

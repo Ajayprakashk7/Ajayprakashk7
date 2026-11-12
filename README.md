@@ -55,6 +55,13 @@ Computer-vision and ML project for real-time gesture recognition and communicati
 
 → [Repository](https://github.com/Ajayprakashk7/sign-language-translation)
 
+## Open Source Contributions
+
+I contribute to upstream projects with a focus on reliability, maintainable fixes, and practical test coverage.
+
+- **OpenTelemetry Kotlin** — [PR #1567: Restore JVM thread interrupt status in SDK error guards](https://github.com/open-telemetry/opentelemetry-kotlin/pull/1567). Submitted a Kotlin Multiplatform reliability fix and JVM regression tests; currently under upstream review.
+- **JetBrains/swot** — [PR #37638: Add Dr.N.G.P. Institute of Technology](https://github.com/JetBrains/swot/pull/37638). Merged contribution to the academic domain directory.
+
 ## Current Direction
 
 I’m deepening my work in:

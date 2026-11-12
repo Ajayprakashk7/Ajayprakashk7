@@ -59,7 +59,7 @@ Computer-vision and ML project for real-time gesture recognition and communicati
 
 I contribute to upstream projects with a focus on reliability, maintainable fixes, and practical test coverage.
 
-- **OpenTelemetry Kotlin** — [PR #1567: Restore JVM thread interrupt status in SDK error guards](https://github.com/open-telemetry/opentelemetry-kotlin/pull/1567). Submitted a Kotlin Multiplatform reliability fix and JVM regression tests; currently under upstream review.
+- **OpenTelemetry Kotlin** — [Merged PR #1567: Restore JVM thread interrupt status in SDK error guards](https://github.com/open-telemetry/opentelemetry-kotlin/pull/1567). Merged a Kotlin Multiplatform reliability fix with JVM regression tests for interrupted error-handling paths; reviewed and approved by an upstream maintainer.
 - **JetBrains/swot** — [PR #37638: Add Dr.N.G.P. Institute of Technology](https://github.com/JetBrains/swot/pull/37638). Merged contribution to the academic domain directory.
 
 ## Current Direction
